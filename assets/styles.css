@@ -1,4 +1,12 @@
 
+header {
+    margin-bottom: 150px;
+}
+
+section {
+    text-align: center;
+}
+
 #button1 {
     font-size: 20px;
     display: inline;
@@ -9,3 +17,17 @@
     display: inline;
     padding-left: 400px;
 }
+
+#title {
+    text-align: center;
+    font-size: 60px;
+
+}
+
+#button2 {
+    font-size: 30px;
+    background-color: lightgreen;
+    margin: 10px;
+
+}
+
